@@ -22,3 +22,10 @@ pre {
 strike {
     color: grey;
 }
+h3{
+    color: rgba(0, 0, 139, 0.8);
+}
+
+.transparent-text {
+    color: rgba(0, 0, 0, 50%);
+}
