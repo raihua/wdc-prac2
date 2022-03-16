@@ -37,6 +37,10 @@ body{
 
 #content {
     background-color: white;
+    border-radius: 8px;
+    border-color: darkgrey;
+    border-width: 1px;
+    border-style: solid;
 }
 
 .blue {
@@ -45,4 +49,23 @@ body{
 
 .fancy {
     font-family: cursive;
+}
+
+.red-border{
+    border-color: red;
+    border-style: solid;            
+}
+
+.blue-border{
+    border-color: blue;
+    border-style: solid;            
+}
+
+.red-outline{
+    outline-color: red;
+    outline-style: solid;        
+}
+
+hr{
+    border-color: #CFDFE4;
 }
