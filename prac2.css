@@ -29,3 +29,20 @@ h3{
 .transparent-text {
     color: rgba(0, 0, 0, 50%);
 }
+
+body{
+    background-image: url("cross.png");
+    background-color: #DCF5F5;
+}
+
+#content {
+    background-color: white;
+}
+
+.blue {
+    color: blue;
+}
+
+.fancy {
+    font-family: cursive;
+}
