@@ -35,6 +35,10 @@ body{
     background-color: #DCF5F5;
 }
 
+hr {
+    border: 1px solid #CFDFE4;
+}
+
 #content {
     background-color: white;
     border-radius: 8px;
@@ -61,8 +65,4 @@ body{
 
 .red-outline{ 
     outline: medium solid red;
-}
-
-hr{
-    border-color: #CFDFE4;
 }
