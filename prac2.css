@@ -39,7 +39,7 @@ body{
     background-color: white;
     border-radius: 8px;
     border-color: darkgrey;
-    border-width: 1px;
+    border-width: medium;
     border-style: solid;
 }
 
@@ -52,17 +52,17 @@ body{
 }
 
 .red-border{ 
-    border: 1px solid red; 
+    border: medium solid red; 
 }
 
 .blue-border{
-    border: 1px solid blue
+    border: medium solid blue
 }
 
 .red-outline{ 
-    outline: 1px solid red;
+    outline: medium solid red;
 }
 
 hr{
-    border:1px solid #CFDFE4
+    border:medium solid #CFDFE4
 }
