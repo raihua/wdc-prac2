@@ -39,7 +39,7 @@ body{
     background-color: white;
     border-radius: 8px;
     border-color: darkgrey;
-    border-width: medium;
+    border-width: 1px;
     border-style: solid;
 }
 
@@ -56,7 +56,7 @@ body{
 }
 
 .blue-border{
-    border: medium solid blue
+    border: medium solid blue;
 }
 
 .red-outline{ 
@@ -64,5 +64,5 @@ body{
 }
 
 hr{
-    border:medium solid #CFDFE4
+    border-color: #CFDFE4;
 }
